@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse LMS",
+  "description": "Comprehensive mobile Learning Management System (LMS) app featuring interactive courses, video lessons, quizzes, progress tracking, and student dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
